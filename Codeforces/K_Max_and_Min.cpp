@@ -17,3 +17,4 @@ int main() {
 
     return 0;
 }
+// cout << min({a, b, c}) << " " << max({a, b, c}) << endl;
